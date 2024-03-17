@@ -1,0 +1,5 @@
+interval = 30
+address = 'http://127.0.0.1/meter/now'
+
+[database]
+url = 'postgres://user:password@127.0.0.1:5432/database?ssl_mode=false'
